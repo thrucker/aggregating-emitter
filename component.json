@@ -1,0 +1,10 @@
+{
+  "name": "aggregating-emitter",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "scripts": ["lib/index.js"],
+  "author": "thrucker",
+  "dependencies": {
+    "component/emitter": "^1.2.0"
+  }
+}
