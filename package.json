@@ -1,0 +1,16 @@
+{
+  "name": "aggregating-emitter",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "scripts": {
+    "install": "coffee -c -o lib src"
+  },
+  "author": "thrucker",
+  "private": true,
+  "dependencies": {
+    "component-emitter": "^1.2.0"
+  },
+  "devDependencies": {
+    "coffee-script": "^1.9.3"
+  }
+}
